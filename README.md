@@ -1,2 +1,0 @@
-# Reponsi
-Responsi Pemrog
